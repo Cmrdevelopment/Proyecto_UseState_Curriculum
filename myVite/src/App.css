@@ -1,0 +1,21 @@
+.about me {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.App h3 {
+  border-bottom: 1px solid black;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.btn {
+  cursor: pointer;
+}
