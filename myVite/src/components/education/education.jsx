@@ -4,6 +4,7 @@ const Education = ({ education }) => {
   return (
     <div>
       <div className="education card">
+        <h3>Education</h3>
         {education.map((item) => {
           return (
             <div key={JSON.stringify(item)}>

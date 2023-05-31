@@ -1,0 +1,23 @@
+.more {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.volunteer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 590px;
+}
+
+.languages {
+  text-align: center;
+}
+
+.description {
+  font-size: 12px;
+  align-items: center;
+}

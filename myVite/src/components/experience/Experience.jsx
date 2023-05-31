@@ -4,6 +4,7 @@ const Experience = ({ experience }) => {
   return (
     <div>
       <div className="experience card">
+        <h3>Experience</h3>
         {experience.map((item) => {
           return (
             <div key={JSON.stringify(item)}>
