@@ -7,7 +7,7 @@ export const CV = {
     city: "Avengers Tower / New York",
     email: "tony@starkindustries.com",
     birthDate: "29/05/1970",
-    phone: "(+12) 767333841 NO PONGAIS EL VUESTRO POR FAVOR",
+    phone: "(+12) 767333841",
     image: "https://i.imgur.com/ZQAkED3.png",
     gitHub: "https://github.com/tonystark",
     aboutMe: [

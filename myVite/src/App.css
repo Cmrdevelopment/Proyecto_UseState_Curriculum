@@ -9,13 +9,45 @@
   border-bottom: 1px solid black;
 }
 
+h2 {
+  margin: 0;
+}
+
 .buttons {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 1rem;
+  gap: 1.2rem;
+}
+
+.btn {
+  background-color: #47a9bf; /* Green */
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.btn:hover {
+  background-color: #4ecdcb; /* Green */
+  color: white;
+  border-color: 1px solid black;
 }
 
 .btn {
   cursor: pointer;
+}
+
+div .pieCopy {
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+  align-items: center;
+  font-size: 21px;
+  padding: 1rem;
+  color: #47a9bf;
 }
